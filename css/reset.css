@@ -1,0 +1,47 @@
+@charset "UTF-8";
+
+html{
+    overflow-y: scroll;
+}
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    color: #404040;
+    font-family: 'Noto Ko Medium';
+    font-size: 14px;
+}
+ul{
+    list-style: none;
+    padding: 0;
+}
+a{
+    text-decoration: none;
+    color: #404040;
+}
+.fl{
+    float: left;
+}
+.fr{
+    float: right;
+}
+.cf::after{
+    content: '';
+    display: block;
+    clear: both;
+}
+dl,dt,dd{
+    padding: 0;
+    margin: 0;
+}
+h2{
+    margin-top: 0;
+    font-size: 30px;
+    font-weight: normal;
+    color: #2d2d32;
+}
+p{
+    font-size: 14px;
+    color: #939393;
+    margin: 0;
+}

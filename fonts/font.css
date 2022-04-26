@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'Noto Ko Medium';
+    src: url('./Noto_Sans_KR/NotoSansKR-Medium.otf');
+    font-weight: 500;
+}
+@font-face {
+    font-family: 'Noto Ko Regular';
+    src: url('./Noto_Sans_KR/NotoSansKR-Regular.otf');
+    font-weight: 300;
+}
